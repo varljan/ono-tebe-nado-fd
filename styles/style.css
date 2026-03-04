@@ -90,12 +90,16 @@
   line-height: 115%;
 }
 
+.aligned-text {
+  display: inline-flex;
+}
+
 .aligned-text_center {
-  text-align: center;
+  align-self: center;
 }
 
 .aligned-text_right {
-  text-align: right;
+  align-self: end;
 }
 
 .letter-spacing-extended {
