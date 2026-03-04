@@ -2,7 +2,7 @@
   display: grid;
   grid-template-columns: 1fr min-content 1fr;
   align-items: center;
-  margin-bottom: 2px;
+  margin-bottom: 5px;
   padding: 90px 50px;
 }
 
