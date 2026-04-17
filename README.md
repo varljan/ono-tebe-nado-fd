@@ -18,4 +18,4 @@
 
 -----
 
-<sub>Учебный проект — Яндекс Практикум · 2026</sub><a href="https://github.com/flare-hare/posmotri-v-okno-fd"><img align="right" src="https://img.shields.io/badge/Репозиторий-1a1a1a?style=flat-square&logo=github&logoColor=eb5757"></a>
+<sub>Учебный проект — Яндекс Практикум · 2026</sub><a href="https://github.com/flare-hare/ono-tebe-nado-fd"><img align="right" src="https://img.shields.io/badge/Репозиторий-1a1a1a?style=flat-square&logo=github&logoColor=eb5757"></a>
